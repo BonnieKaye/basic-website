@@ -1,0 +1,57 @@
+body {
+    background-color: rgb(69, 68, 68);
+    color: black;
+    margin: auto;
+    margin-bottom: 25px;
+    max-width: 100%;
+    width: 70ch
+}
+h1 {
+    font-family: cochin;
+    font-size: 40px;
+}
+h3 {
+    font-family: monospace;
+    font-size: 17px;
+    margin-top: 30px;
+}
+h2 {
+    font-family: "Unlock", serif;
+    font-weight: 400;
+    font-style: normal;
+    margin: 30px auto 15px auto
+}
+.link {
+    background-color: rgb(36, 36, 36);
+    padding: 10px 15px 10px 15px;
+    border-radius: 15px;
+    color: rgb(182, 181, 181);
+    margin-right: 15px;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 25px;
+  font-family: "Unlock", serif;
+  font-weight: 100;
+  font-style: normal;
+}
+p {
+    line-height: 1.4;
+    font-family: "Playfair Display", serif;
+    font-weight: weight;
+    font-style: normal;
+    font-size: 18px
+}
+ul {
+    line-height: 1.4;
+    font-family: "Playfair Display", serif;
+    font-weight: weight;
+    font-style: normal;
+    font-size: 16px;
+}
+footer {
+    line-height: 1.4;
+    font-family: "Playfair Display", serif;
+    font-weight: weight;
+    font-style: normal;
+    font-size: 14px
+}
